@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, C**
 
-- 👨‍💻 All of my projects are available at [danlee.uk](danlee.uk)
+- 👨‍💻 All of my projects are available at [danlee.uk](https://danlee.uk)
 
 - ⏭️ I'm going to be learning **Java, Haskell**
 
