@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan Lee</h1>
 <h3 align="center">Studying Computer Science @ University of Nottingham</h3>
 
-- 🔭 I’m currently working on [onlydans](onlydans.danlee.uk)
+- 🔭 I’m currently working on [onlydans](https://onlydans.danlee.uk)
 
 - 🌱 I’m currently learning **React, C**
 
