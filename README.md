@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dan Lee</h1>
 <h3 align="center">Studying Computer Science @ University of Nottingham</h3>
 
-- 🔭 I’m currently working on [onlydans](https://onlydans.danlee.uk)
+- 🔭 I’m currently working on [onlydans](https://onlydans.danlee.uk), [nottes](https://ntoes.danlee.uk)
 
-- 🌱 I’m currently learning **React, C**
+- 🌱 I’m currently learning **React, C, Java, Haskell**
 
 - 👨‍💻 All of my projects are available at [danlee.uk](https://danlee.uk)
-
-- ⏭️ I'm going to be learning **Java, Haskell**
 
 - 📫 How to reach me **contact@danlee.uk**
 
