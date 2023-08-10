@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dan Lee</h1>
 <h3 align="center">Studying Computer Science @ University of Nottingham</h3>
-<h4 align="center">Currently on Year in Industry at Capital One Europe</h4>
+<h4 align="center">Currently on Year in Industry at Capital One Europe as SDE 1</h4>
 
-- 🔭 I’m currently working on [Rambling & Hiking](https://ramsocdev.danlee.uk)
+- 🔭 I’m currently working on [Rambling & Hiking](https://dev.ramsoc.co.uk)
 
-- 🌱 I’m currently learning **React, Typescript, C++, Haskell**
+- 🌱 I’m currently learning **React, Typescript, AWS**
 
 - 👨‍💻 All of my projects are available at [danlee.uk](https://danlee.uk)
 
