@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan Lee</h1>
-<h3 align="center">Studying Computer Science @ University of Nottingham</h3>
-<h4 align="center">Finaly Year Student</h4>
+<h3 align="center">Software Engineer at Capital One UK</h3>
 
 - 🔭 I’m currently working on [Rambling & Hiking](https://dev.ramsoc.co.uk)
 
